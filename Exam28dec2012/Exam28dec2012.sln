@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1SevenlandNumbers", "1SevenlandNumbers\1SevenlandNumbers.csproj", "{DEFEB859-90A9-4796-A18B-6E043C02D3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFEB859-90A9-4796-A18B-6E043C02D3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFEB859-90A9-4796-A18B-6E043C02D3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFEB859-90A9-4796-A18B-6E043C02D3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFEB859-90A9-4796-A18B-6E043C02D3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
